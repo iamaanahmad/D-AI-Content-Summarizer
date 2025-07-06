@@ -1,0 +1,5 @@
+{
+  "name": "Decentralized Content Summarizer",
+  "description": "A tool that uses the Gemini API to generate concise summaries of long articles or research papers, with a simulated option to save the summary to decentralized storage like IPFS or Arweave.",
+  "requestFramePermissions": []
+}
